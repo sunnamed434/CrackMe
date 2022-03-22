@@ -1,0 +1,8 @@
+C:\Users\cetni\source\repos\CrackMe_0\CrackMe_0\bin\Debug\CrackMe_0.exe.config
+C:\Users\cetni\source\repos\CrackMe_0\CrackMe_0\bin\Debug\CrackMe_0.exe
+C:\Users\cetni\source\repos\CrackMe_0\CrackMe_0\bin\Debug\CrackMe_0.pdb
+C:\Users\cetni\source\repos\CrackMe_0\CrackMe_0\obj\Debug\CrackMe_0.csproj.AssemblyReference.cache
+C:\Users\cetni\source\repos\CrackMe_0\CrackMe_0\obj\Debug\CrackMe_0.csproj.SuggestedBindingRedirects.cache
+C:\Users\cetni\source\repos\CrackMe_0\CrackMe_0\obj\Debug\CrackMe_0.csproj.CoreCompileInputs.cache
+C:\Users\cetni\source\repos\CrackMe_0\CrackMe_0\obj\Debug\CrackMe_0.exe
+C:\Users\cetni\source\repos\CrackMe_0\CrackMe_0\obj\Debug\CrackMe_0.pdb
